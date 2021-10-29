@@ -53,5 +53,8 @@ h2 {
   margin: 1em 0;
 }
 .timer b {
-  color: #fd637d;
+            text-align: center; /*居中*/
+            font-size: 28px; /*字体大小*/
+            color: red; /*字体颜色*/
+            font-family:FZShuTi  ; /*设置字体为华文彩云*/
 }
